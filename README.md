@@ -13,9 +13,20 @@ Maintainers - [Jeremy Kerfs](https://github.com/jkerfs)
 # Books
 - [Convex Optimization](http://stanford.edu/~boyd/cvxbook/) by Boyd and Vandenberghe
 
+# Tools
+- [Google OR-Tools](https://developers.google.com/optimization/) (C++, C#, Python, Java)
+- [Scipy Optimize](https://docs.scipy.org/doc/scipy-0.18.1/reference/optimize.html) (Python)
+
+# Papers
+- [Particle Swarm Optimization](https://www.cs.tufts.edu/comp/150GA/homeworks/hw3/_reading6%201995%20particle%20swarming.pdf)
+- [Ant Colony Optimization](http://www.cs.unibo.it/babaoglu/courses/cas05-06/tutorials/Ant_Colony_Optimization.pdf)
+
+
 # SubFields
 ## Convex Optimization
 ## Combinatorial Optimization
+
+
 
 # Applications
 ## Neural Networks
